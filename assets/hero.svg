@@ -1,0 +1,33 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="60" x2="1500" y2="660" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a1420"/>
+      <stop offset="0.5" stop-color="#0d2233"/>
+      <stop offset="1" stop-color="#0f3a34"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1600" height="700" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="700" rx="32" fill="url(#bg)"/>
+  <g opacity="0.5" filter="url(#blur)">
+    <circle cx="1380" cy="470" r="150" fill="#10b981"/>
+    <circle cx="1300" cy="150" r="120" fill="#38bdf8"/>
+    <circle cx="360" cy="120" r="90" fill="#10b981"/>
+  </g>
+  <rect x="46" y="46" width="1508" height="608" rx="26" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.10"/>
+  <rect x="879" y="86" width="621" height="54" rx="27" fill="#0d2233" stroke="#34d399" stroke-opacity="0.7" stroke-width="1.5"/>
+  <text x="909" y="121" font-size="26" font-weight="600" font-family="Consolas, monospace" fill="#d1fae5">github.com/kawsarlog/commerce-apis</text>
+  <rect x="90" y="78" width="360" height="52" rx="26" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+  <text x="118" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2" fill="#a7f3d0">BUILT FOR COMMERCE</text>
+  <text x="86" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="104" font-weight="800" fill="#ffffff">commerce-apis</text>
+  <text x="92" y="300" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="600" fill="#6ee7f9">14,263 production-ready APIs across E-commerce and Real Estate</text>
+  <text x="92" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#cbd5e1">Turn storefronts and property markets into structured data — catalogs, prices, reviews,</text>
+  <text x="92" y="400" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#cbd5e1">and live listings for pricing intelligence, market research, and lead generation.</text>
+  <rect x="90" y="470" width="420" height="150" rx="18" fill="#0c1c22" fill-opacity="0.9" stroke="#332a55" stroke-width="1.5"/>
+  <text x="120" y="522" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.5" fill="#34d399">E-COMMERCE</text>
+  <text x="118" y="588" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="#ffffff">10,646 APIs</text>
+  <rect x="540" y="470" width="420" height="150" rx="18" fill="#0c1c22" fill-opacity="0.9" stroke="#332a55" stroke-width="1.5"/>
+  <text x="570" y="522" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.5" fill="#60a5fa">REAL ESTATE</text>
+  <text x="568" y="588" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="#ffffff">3,617 APIs</text>
+</svg>
