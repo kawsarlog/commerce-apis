@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/commerce-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/commerce-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/commerce-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/commerce-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/commerce-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/commerce-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-14,179-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-14,276-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **14,179** production-ready APIs across E-commerce and Real Estate.
+> **14,276** production-ready APIs across E-commerce and Real Estate.
 
 Everything you need to turn online stores and property markets into clean, structured data: product catalogs, price history, reviews, and live listings. Every API is rated, ready to plug in, and refreshed daily — built for pricing intelligence, competitive research, and lead generation.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **14,179** |
+| **Total APIs** | **14,276** |
 | **Categories** | 2 |
-| **Last updated** | 2026-07-15 |
+| **Last updated** | 2026-07-16 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,13 +38,13 @@ Everything you need to turn online stores and property markets into clean, struc
   <tr>
     <td width="50%" valign="top">
       <h3>E-commerce</h3>
-      <p><strong>10,563 APIs</strong></p>
+      <p><strong>10,633 APIs</strong></p>
       <p>Product catalogs, pricing, reviews, and storefront data from major marketplaces.</p>
       <p><a href="./Ecommerce/"><strong>Open E-commerce &rarr;</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Real Estate</h3>
-      <p><strong>3,616 APIs</strong></p>
+      <p><strong>3,643 APIs</strong></p>
       <p>Property listings, market trends, and valuation data for investment and lead gen.</p>
       <p><a href="./Real_estate/"><strong>Open Real Estate &rarr;</strong></a></p>
     </td>
@@ -61,7 +61,7 @@ Everything you need to turn online stores and property markets into clean, struc
 ## Explore the Stack
 
 <details open>
-<summary><strong>E-commerce — 10,563 APIs</strong></summary>
+<summary><strong>E-commerce — 10,633 APIs</strong></summary>
 
 Product catalogs, pricing, reviews, and storefront data from major marketplaces.
 
@@ -70,7 +70,7 @@ Product catalogs, pricing, reviews, and storefront data from major marketplaces.
 </details>
 
 <details>
-<summary><strong>Real Estate — 3,616 APIs</strong></summary>
+<summary><strong>Real Estate — 3,643 APIs</strong></summary>
 
 Property listings, market trends, and valuation data for investment and lead gen.
 
@@ -110,7 +110,7 @@ Property listings, market trends, and valuation data for investment and lead gen
 
 <div align="center">
 
-**14,179 APIs** across **2 categories** — updated 2026-07-15
+**14,276 APIs** across **2 categories** — updated 2026-07-16
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
